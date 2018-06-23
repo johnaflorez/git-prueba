@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a847cdf7-3177-4e8f-9c57-0e4db8d4d7c6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/proyectoboard$torre_hanoi_2.coverage" NAME="torre_hanoi_2 Coverage Results" MODIFIED="1529381148855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Escritorio/Proyectos/pruebas" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boards/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="90" column="51" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_view_reply_topic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boards/tests/test_view_reply_topic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagination.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/includes/pagination.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boards/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/boards/topics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topic_posts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/boards/topic_posts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/accounts/tests/test_signup_view.py" />
+        <option value="$PROJECT_DIR$/accounts/forms.py" />
+        <option value="$PROJECT_DIR$/templates/base/base_accounts.html" />
+        <option value="$PROJECT_DIR$/boards/templatetags/form_tags.py" />
+        <option value="$PROJECT_DIR$/templates/includes/form.html" />
+        <option value="$PROJECT_DIR$/boards/tests/test_templatetags.py" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset_subject.txt" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset_complete.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_change.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_change_done.html" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_view_signup.py" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_form_signup.py" />
+        <option value="$PROJECT_DIR$/templates/accounts/signup.html" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_templatetags.py" />
+        <option value="$USER_HOME$/Descargas/django-registration-master/registration/templates/registration/password_reset_form.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/password_reset_email.html" />
+        <option value="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/templates/registration/password_reset_email.html" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_mail_password_reset.py" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_view_password_reset.py" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_password_reset_confirm.py" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_password_reset_complete.py" />
+        <option value="$PROJECT_DIR$/proyectoboard/urls.py" />
+        <option value="$PROJECT_DIR$/accounts/tests/test_view_password_change.py" />
+        <option value="$PROJECT_DIR$/templates/registration/password_change_done.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/login.html" />
+        <option value="$PROJECT_DIR$/boards/tests/test_views_new_topic.py" />
+        <option value="$PROJECT_DIR$/boards/forms.py" />
+        <option value="$PROJECT_DIR$/templates/boards/home.html" />
+        <option value="$PROJECT_DIR$/boards/tests/test_view_edit_post.py" />
+        <option value="$PROJECT_DIR$/boards/tests/test_view_home.py" />
+        <option value="$PROJECT_DIR$/boards/tests/test_views_board_topic.py" />
+        <option value="$PROJECT_DIR$/boards/urls.py" />
+        <option value="$PROJECT_DIR$/boards/tests/test_view_topic_posts.py" />
+        <option value="$PROJECT_DIR$/accounts/urls.py" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/templates/accounts/my_account.html" />
+        <option value="$PROJECT_DIR$/templates/base/base.html" />
+        <option value="$PROJECT_DIR$/templates/boards/edit_post.html" />
+        <option value="$PROJECT_DIR$/proyectoboard/settings.py" />
+        <option value="$PROJECT_DIR$/boards/templatetags/gravatar.py" />
+        <option value="$PROJECT_DIR$/templates/boards/topics.html" />
+        <option value="$PROJECT_DIR$/boards/models.py" />
+        <option value="$PROJECT_DIR$/templates/boards/reply_topic.html" />
+        <option value="$PROJECT_DIR$/templates/boards/topic_posts.html" />
+        <option value="$PROJECT_DIR$/boards/views.py" />
+        <option value="$PROJECT_DIR$/boards/tests/test_view_reply_topic.py" />
+        <option value="$PROJECT_DIR$/templates/includes/pagination.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="152" />
+    <option name="width" value="1289" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
+              <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boards/tests" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/boards/tests" />
+      <recent name="$PROJECT_DIR$/boards" />
+      <recent name="$PROJECT_DIR$/accounts" />
+      <recent name="$PROJECT_DIR$/accounts/tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.proyectoboard">
+    <configuration name="torre_hanoi_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="proyectoboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Escritorio/Proyectos/pruebas" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Escritorio/Proyectos/pruebas/torre_hanoi_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="proyectoboard" type="Python.DjangoServer" factoryName="Django server">
+      <module name="proyectoboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.proyectoboard" />
+      <item itemvalue="Python.torre_hanoi_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.torre_hanoi_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a847cdf7-3177-4e8f-9c57-0e4db8d4d7c6" name="Default" comment="" />
+      <created>1529275491308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529275491308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="-11" width="1315" height="780" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50039464" side_tool="true" weight="0.67807156" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32970452" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49960536" visible="true" weight="0.36547434" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25098658" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.2643857" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>hanoi[i][j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hanoi[2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/accounts/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_templatetags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_change_done.html" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset.html" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset_subject.txt" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_change.html" />
+    <entry file="file://$USER_HOME$/Descargas/django-registration-master/registration/templates/registration/password_reset_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset_confirm.html" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset_complete.html" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset_done.html" />
+    <entry file="file://$PROJECT_DIR$/templates/accounts/password_reset_email.html" />
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_complete.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_form_signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_view_signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_mail_password_reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_view_password_reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="80" column="45" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_password_reset_complete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_password_reset_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="69" column="83" selection-start-line="69" selection-start-column="83" selection-end-line="69" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_change_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_change.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests/test_view_password_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="71" column="73" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyectoboard/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="e#647#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_views_new_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="90" column="43" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boards/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_view_edit_post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="53" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_view_home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_views_board_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_view_topic_posts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="90" lean-forward="true" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/my_account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyectoboard/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boards/edit_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/templatetags/form_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/templatetags/gravatar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boards/reply_topic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boards/topics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boards/topic_posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="90" column="51" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boards/tests/test_view_reply_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
