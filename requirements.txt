@@ -9,7 +9,7 @@ Django==1.11
 django-crispy-forms==1.7.2
 django-extensions==2.0.7
 django-widget-tweaks==1.4.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 greenlet==0.4.13
 idna==2.6
 isort==4.3.4
